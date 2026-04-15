@@ -4,6 +4,7 @@ This repository contains:
 -ATM Machine project
 -Student Managment System
 -Banking system
+-Library Managment System
 
 Created by:G.sragvi
 ##Projects included
